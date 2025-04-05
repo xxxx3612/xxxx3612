@@ -25,7 +25,6 @@
   
 
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img  height="45%" src="https://github-readme-stats.vercel.app/api?username=xxxx3612&show_icons=true&theme=radical" />
     <img  height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxx3612&theme=radical&layout=compact" />
     
   </div>
